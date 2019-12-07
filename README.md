@@ -3,8 +3,8 @@ Replicate visualization and analysis from a blog
 
 # What does it mean to be a man?
 
-# Read: https://fivethirtyeight.com/features/what-do-men-think-it-means-to-be-a-man/.
-# You can access the data (raw-responses.csv) and the survey questions on the Github page https://github.com/fivethirtyeight/data/tree/master/masculinity-survey.
+Read: https://fivethirtyeight.com/features/what-do-men-think-it-means-to-be-a-man/.
+You can access the data (raw-responses.csv) and the survey questions on the Github page https://github.com/fivethirtyeight/data/tree/master/masculinity-survey.
 
 Make sure that your plots have interpretable legends and titles. Using themes and colors that differ from the ggplot2 defaults is encouraged.
 
