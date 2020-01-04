@@ -485,7 +485,6 @@ q3_q0012_all_men_by_race  %>% ggplot(aes(x= reorder(Response, -Percent), y = Per
 #-----
 # c) Analysing demographics
 
-# remove no children and take the screenshot of all 3
 q3_q0024_all_men <- responses_538 %>% select(q0024,q0025_0001:q0025_0003)%>%
   gather(Ques, Response, q0025_0001:q0025_0003) %>%
   count(Ques, Response, q0024) %>% group_by(Ques, q0024) %>%
